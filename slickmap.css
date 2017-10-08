@@ -86,8 +86,8 @@
 #primaryNav li:last-child {
 	background: url('images/L1-right.png') center top no-repeat;
 }
-a:link:before,
-a:visited:before {
+#primaryNav a:link:before,
+#primaryNav a:visited:before {
 	display: block;
 	text-transform: uppercase;
 	font-size: 10px;
