@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Slick Sitemap
+Plugin Name: Slick Sitemap Two
 Plugin URI: http://pengbos.com/blog/slick-html-sitemap
 Description: <a href="http://pengbos.com/blog/slick-html-sitemap" target="_blank">Slick Sitemap</a> Adds an HTML (Not XML) sitemap of your blog by entering the shortcode [slick-sitemap]. A plugin from <a href="http://pengbos.com/" target="_blank">Plugins and Themes: Pengbos.com</a>.
 Version: 2.0.0
